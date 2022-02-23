@@ -1,0 +1,304 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the lords spiritual and temporal in the Abey-Church at Westminster, the 30th of January, 1691/2 by ... Richard Lord Bishop of Bath and Wells.</title>
+            <author>Kidder, Richard, 1633-1703.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47339</idno>
+            <idno type="STC">Wing K414</idno>
+            <idno type="STC">ESTC R2194</idno>
+            <idno type="EEBO-CITATION">12576850</idno>
+            <idno type="OCLC">ocm 12576850</idno>
+            <idno type="VID">63615</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47339)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63615)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 962:42)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the lords spiritual and temporal in the Abey-Church at Westminster, the 30th of January, 1691/2 by ... Richard Lord Bishop of Bath and Wells.</title>
+                  <author>Kidder, Richard, 1633-1703.</author>
+               </titleStmt>
+               <extent>[2], 27, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.H. for B. Aylmer ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+                  <note>Advertisement: p. [1] at end.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:63615:1"/>
+            <pb facs="tcp:63615:1"/>
+            <p>THE Biſhop of <hi>BATH</hi> and <hi>WELLS</hi>'s SERMON Before the Houſe of Peers On <hi>January</hi> the 30<hi rend="sup">th.</hi> 1691/2.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:63615:2"/>
+            <opener>
+               <dateline>
+                  <date>Die Lune 1<hi rend="sup">0</hi>. Februarii 1691.</date>
+               </dateline>
+            </opener>
+            <p>IT is Ordered by the Lords Spiritual and Temporal in Parliament Aſſem<g ref="char:EOLhyphen"/>bled, That the Thanks of this Houſe are hereby given to the Lord Biſhop of <hi>Bath</hi> and <hi>Wells</hi> for his Sermon Preached be<g ref="char:EOLhyphen"/>fore this Houſe on <hi>Saturday</hi> laſt in the Abbey-Church at <hi>Weſtminſter,</hi> and he is hereby deſired to Print and Publiſh the ſame.</p>
+            <closer>
+               <signed>
+                  <hi>Matth. Johnſon</hi> Cler' Parliamentor'.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:63615:2" rendition="simple:additions"/>
+            <p>A SERMON Preached before the <hi>Lords Spiritual and Temporal</hi> IN THE Abbey-Church AT WESTMINSTER, The 30<hi rend="sup">th</hi>. of <hi>January,</hi> 1691/2.</p>
+            <p>By the Right Reverend Father in GOD, <hi>RICHARD</hi> Lord Biſhop of <hi>Bath</hi> and <hi>Wells.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J.H.</hi> for <hi>B. Aylmer</hi> at the Three Pigeons againſt the <hi>Royal Exchange</hi> in <hi>Cornhill.</hi> MDCXCII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:63615:3" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:63615:3"/>
+            <epigraph>
+               <bibl>
+                  <hi>Matth. XXIII. 35.</hi>
+               </bibl>
+               <q>That upon you may come all the righteous bloud ſhed upon the Earth, from the bloud of righteous <hi>Abel,</hi> unto the bloud of <hi>Zacharias,</hi> the Son of <hi>Barachias,</hi> whom ye ſlew between the Temple and the Altar.</q>
+            </epigraph>
+            <p>WE find our Bleſſed Saviour, in the foregoing parts of this Chapter, denouncing ſeveral Woes againſt the <hi>Scribes</hi> and <hi>Phariſees.</hi> I ſhall look no farther back than to the 29th. Verſe of this Chapter. Thence we ſhall be eaſily introduced to the words of my Text.</p>
+            <p>There we find our Lord ſeverely denoun<g ref="char:EOLhyphen"/>cing againſt the Hypocriſy of the <hi>Scribes</hi> and <hi>Phariſees,</hi> in pretending great honour for the <hi>departed Saints,</hi> when they were malici<g ref="char:EOLhyphen"/>ouſly bent againſt the <hi>living ones;</hi> A piece of Hypocrify which they were guilty of, and which many ſince have followed. They
+<pb n="2" facs="tcp:63615:4"/>profeſſed great reſpect for the <hi>departed Saints,</hi> in <hi>building</hi> their <hi>Tombs,</hi> and <hi>garniſhing</hi> their <hi>Sepulchres,</hi> (v. 29.) and declaring againſt their Forefather's impiety; <hi>If we had been in the days of our Fathers, we would not have been partakers with them in the bloud of the Prophets,</hi> (v. 30.) Notorious Hypocrites! Their Hypocriſy ap<g ref="char:EOLhyphen"/>pears in the following particulars.</p>
+            <p>Firſt, In that they continued in their <hi>own wickedneſs,</hi> and yet applauded the <hi>Saints de<g ref="char:EOLhyphen"/>parted.</hi> They ſhould have <hi>imitated</hi> their <hi>Ver<g ref="char:EOLhyphen"/>tues;</hi> but content themſelves with <hi>garniſhing</hi> their <hi>Sepulchres.</hi> They keep their <hi>Sins,</hi> and <hi>magnifie</hi> the <hi>Saints;</hi> As if they could atone for their own Sins by praiſing the Vertues, and preſerving the Memory of the Righteous. This is palpable Hypocriſy, and yet, as groſs as it is, it prevails ſtill; There are too many like him who pleaſed himſelf that he had a <hi>Levite</hi> for his <hi>Prieſt,</hi> tho' he had an <hi>Idol</hi> for his <hi>God.</hi> 'Tis egregious Hypocriſy to <hi>cry</hi> up the <hi>Saints</hi> and <hi>Herd</hi> with the <hi>wicked:</hi> If the <hi>Saints</hi> did well, why do we not <hi>follow</hi> them? if not, why do we <hi>cry</hi> them up?</p>
+            <p>Secondly, In profeſſing a profound reſpect for the <hi>Saints departed,</hi> when they were for
+<pb n="3" facs="tcp:63615:4"/>perſecuting them that were <hi>alive.</hi> They pro<g ref="char:EOLhyphen"/>feſſed that they would not have done as their Fathers did, and are at the coſt of building and garniſhing the Tombs and Sepulchres of the Righteous. All this is but Hypocriſy. Our Saviour's words make this plain: <hi>Behold</hi> (ſays He) <hi>I ſend unto you Prophets, and Wiſe men, and Scribes, and ſome of them ye ſhall kill and crucify, and ſome of them ſhall ye ſcourge in your Synagogues, and perſecute them from City to City,</hi> (v. 31.) Thus at the ſame time they <hi>extoll</hi> the <hi>Saints departed,</hi> and are <hi>maliciouſly</hi> bent on the oppreſſing the <hi>living.</hi>
+            </p>
+            <q>Virtutem incolumem odimus.</q>
+            <p>They who love not righteous Men while they live, yet praiſe them when they are dead. Such Men are well compared to Batts or Owls, that rejoice in the light of the Sun after it is ſet, when its brighter beams they would not endure. Such Men, after all their pretences, are but Children of Darkneſs. There was much of this Hypocriſy among the <hi>Jews.</hi> They magnified their pious Anceſtors, and perſecuted their righteous Off-ſpring. They boaſted of <hi>Abraham,</hi> and worried his faithfull
+<pb n="4" facs="tcp:63615:5"/>Children. In a word, commended Vertue, and oppreſſed it at the ſame time. And this Hypocriſy hath been followed by others alſo. Thoſe who profeſs great veneration for Saints, have born very hard upon them; They who have magnified the Martyrs, and preſerve their Memory in their Dypticks, ſolemn Of<g ref="char:EOLhyphen"/>fices and Kalendars, have alſo added to their number and ſhed their bloud.</p>
+            <p>Thirdly, In taking a falſe meaſure of their love to the <hi>Saints departed,</hi> from their <hi>buil<g ref="char:EOLhyphen"/>ding</hi> their <hi>Tombs</hi> and <hi>garniſhing</hi> their <hi>Sepul<g ref="char:EOLhyphen"/>chres.</hi> 'Tis not to be thought that they are reproved barely for this care of their Tombs. But this is ſhort of that honour we ought to expreſs towards Saints and Martyrs. We muſt imitate their <hi>Examples,</hi> and purge out of our Minds all that hatred and ill-will which poſſeſs'd their Perſecutors. Theſe Men ought to have repented of their Father's Crimes; We may Canonize and Worſhip Saints, and yet be far from giving them all due honour. We then honour them, when we <hi>imitate</hi> their <hi>Vertues</hi> and <hi>cheriſh</hi> their <hi>Fol<g ref="char:EOLhyphen"/>lowers.</hi> 'Tis groſs Hypocriſy to pay reſpect to their Relicks, and veneration to their Images,
+<pb n="5" facs="tcp:63615:5"/>and at the ſame time to afflict their Follow<g ref="char:EOLhyphen"/>ers. Our Saviour requires St. <hi>Peter</hi> to ſhew his Love to Him, by his tender care of his Sheep, <hi>John</hi> 21.17.</p>
+            <p>Our Saviour lets the <hi>Jews</hi> know that he would lay open their Hypocriſy. He would ſend among them Prophets and Wiſe men, whom they would perſecute and kill after all their falſe pretences of their veneration for them. And indeed none have more ſe<g ref="char:EOLhyphen"/>verely afflicted the Saints, than thoſe Men have done who have pretended the greateſt honour for them. They have imitated <hi>Herod,</hi> who intended to kill <hi>Jeſus,</hi> when he gave out that he would worſhip Him. <hi>Behold I ſend unto you Prophets,</hi> &amp;c. And then it fol<g ref="char:EOLhyphen"/>lows, <hi>That upon you may come,</hi> &amp;c. And here,
+<list>
+                  <item>Firſt, I ſhall endeavour to Explain theſe words. For there is ſome difficulty in them.</item>
+                  <item>Secondly, I ſhall ſhew the Juſtice of this denunciation: <hi>That upon you may come,</hi> &amp;c.</item>
+                  <item>Thirdly, I ſhall make ſome Application, with a particular reference to the ſad occa<g ref="char:EOLhyphen"/>ſion which hath brought us together.</item>
+               </list>
+            </p>
+            <p n="1">
+               <pb n="6" facs="tcp:63615:6"/>1. I ſhall endeavour to Explain the words.</p>
+            <p>Firſt, I conſider theſe words, <hi>That upon you may come.</hi> This is explained by St. <hi>Luke, ch.</hi> 11. <hi>ver.</hi> 50. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>i. e.</hi> That it may be required of this Genera<g ref="char:EOLhyphen"/>tion.</p>
+            <p>But then it is to be remembred that the Particle <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in St. <hi>Luke</hi> (which in St. <hi>Matthew</hi> is expreſſed by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) does not always import the <hi>End</hi> or <hi>final Cauſe,</hi> but the <hi>Effect</hi> or <hi>Con<g ref="char:EOLhyphen"/>ſequent.</hi> And in this latter ſenſe it is to be underſtood in this place. It is not to be ſup<g ref="char:EOLhyphen"/>poſed that the Prophets were ſent, that the <hi>Jews</hi> might put them to death, and contract the guilt of their Righteous bloud. This was the <hi>conſequent</hi> and <hi>event</hi> indeed, but not the <hi>end</hi> of ſending them. That Particle is ſome<g ref="char:EOLhyphen"/>times to be underſtood as <hi>Cauſal,</hi> ſometimes as <hi>Conſequential</hi> onely. And in this latter ſenſe 'tis to be taken here, and elſewhere alſo. Thus 'tis thought, not without reaſon, it is to be underſtood, <hi>Matth.</hi> 1.22. Again, The Law entered <hi>That</hi> the Offence might abound, <hi>Rom.</hi> 5.20.</p>
+            <p>
+               <pb n="7" facs="tcp:63615:6"/>Secondly, It will be a matter of greater difficulty to determine who was this <hi>Zacha<g ref="char:EOLhyphen"/>rias</hi> the Son of <hi>Barachias,</hi> who was ſlain be<g ref="char:EOLhyphen"/>tween the <hi>Temple and the Altar.</hi> There are ſeveral Opinions about it.</p>
+            <p n="1">1. That it is to be underſtood of the Pro<g ref="char:EOLhyphen"/>phet <hi>Zechariah, Zech.</hi> 1.1. who is ſaid to be the Son of <hi>Barachiah.</hi> But this is not likely: For we do not find that he was ſlain; and if we had cauſe to believe that he was ſlain, yet, have we no cauſe to think he was ſlain between the Temple and the Altar. The <hi>Jews</hi> in his time were newly returned from Cap<g ref="char:EOLhyphen"/>tivity, and then their Temple and Altar were not built. If it had, 'tis not very likely they ſhould there have ſlain this Prophet: Be that as it will, we have not Evidence of the fact.</p>
+            <p n="2">2. That it is to be underſtood of <hi>Zacha<g ref="char:EOLhyphen"/>rias,</hi> the Father of <hi>John Baptiſt.</hi> This would well agree with the Context, had we ſuffici<g ref="char:EOLhyphen"/>ent reaſon to believe the matter of fact. We have not ground enough to believe that he was ſlain by the <hi>Jews;</hi> nor does it appear that he was the Son of <hi>Barachias.</hi>
+            </p>
+            <p n="3">
+               <pb n="8" facs="tcp:63615:7"/>3. There is another <hi>Zacharias</hi> that bids fairer than thoſe, named before, to be the Perſon meant by our Saviour. He is menti<g ref="char:EOLhyphen"/>oned, 2 <hi>Chron.</hi> 24.20. He was indeed a Pro<g ref="char:EOLhyphen"/>phet, and a Righteous Man: He was ſlain by the Hands of the People, and Command of the King; and that alſo <hi>in the Court of the houſe of the Lord:</hi> And that agrees well with what is in my Text, expreſſed by <hi>between the Temple and the Altar.</hi> When he was killed, he ſaid, <hi>The Lord look upon it and require.</hi> His was indeed Righteous bloud, and the guilt was National, and might well be required of that generation. His Death was a moſt hainous Sin: He was himſelf a Prophet and a Prieſt, and the Son of an High-Prieſt, who was the great Reſtorer of God's Worſhip, and had deſerved greatly both of the King and Peo<g ref="char:EOLhyphen"/>ple. 'Twas great Impiety to kill ſo great a Saint, and the Son of one who had deſerved a perpetual Memory from King and People. 'Twas a deteſtable crime to murther him, conſidering his innocence, his birth and cha<g ref="char:EOLhyphen"/>racter; and greater ſtill to doe it when he was in the execution of his Office, and bring<g ref="char:EOLhyphen"/>ing them back to the worſhip of God, and to
+<pb n="9" facs="tcp:63615:7"/>doe all this not onely in the ſight of the Sun but in the Houſe of his God.</p>
+            <p>But after all that hath been ſaid, there are two conſiderable objections againſt this (o<g ref="char:EOLhyphen"/>therwiſe very probable) opinion alſo.</p>
+            <p>Firſt, That the perſon mentioned, 2 <hi>Chron.</hi> 24. is ſaid to be the Son of <hi>Jehojada,</hi> this in my Text the Son of <hi>Barachias.</hi>
+               <note place="margin">
+                  <hi>R. Iſaac</hi> Chizuk. E<g ref="char:EOLhyphen"/>mun. l. <hi>2.</hi> c. <hi>22.</hi>
+               </note> This is by a <hi>Jewiſh.</hi> Writer urged as an Error in the Text of St. <hi>Matthew,</hi> and ſuch an one alſo as will admit of no <hi>ſalvo.</hi>
+            </p>
+            <p>But the <hi>Jews,</hi> of all Men, have no reaſon to make this objection againſt the authority of the Text. Such pretences may be brought againſt ſome Books of the Old Teſtament, which yet can be of no force to deſtroy their authority. They might rather ſuppoſe this perſon to have two Names, that of <hi>Je<g ref="char:EOLhyphen"/>hojada,</hi> and this of <hi>Barachias.</hi> It was very common among them.<note place="margin">Pſal. 34. Tit. <hi>with</hi> 1 Sam. 21.11.</note> No man doubts of the <hi>Pſalmiſt</hi>'s authority, becauſe he calls the ſame man <hi>Abimilech,</hi> whom another ſacred Writer calls <hi>Achiſh.</hi> The ſame man is called <hi>Ner</hi> in one place, who in another is called <hi>Abiel,</hi> 1 <hi>Sam.</hi> 9.1. with 1 <hi>Chron.</hi> 8.32. One ſacred Writer calls him <hi>Ammiel,</hi> whom ano<g ref="char:EOLhyphen"/>ther
+<pb n="10" facs="tcp:63615:8"/>calls <hi>Eliam,</hi> 2 <hi>Sam.</hi> 11.3. with 1 <hi>Chron.</hi> 3.5. And him <hi>Chileab,</hi> whom another calls <hi>Daniel,</hi> 2 <hi>Sam.</hi> 3.3. with 1 <hi>Chron.</hi> 3.1. The ſame woman is ſaid to be the daughter of <hi>Elon,</hi> and in the ſame book called the daugh<g ref="char:EOLhyphen"/>ter of <hi>Iſmael,</hi>
+               <note place="margin">Menaſſ. B. Iſrael. <hi>Con<g ref="char:EOLhyphen"/>cil. in</hi> Exod. <hi>qu.</hi> 1. Joſeph. <hi>Antiq. l.</hi> 2. <hi>c.</hi> 12.</note> 
+               <hi>Gen.</hi> 26.34. with <hi>Chap.</hi> 36. <hi>v.</hi> 3. <hi>Reuel, Jethro</hi> and <hi>Hobab</hi> are by the <hi>Jews</hi> al<g ref="char:EOLhyphen"/>lowed to be the ſeveral Names of the ſame perſon. Nothing being more common than for the ſame man to have divers Names, and for that cauſe no man in his wits can im<g ref="char:EOLhyphen"/>peach the ſacred Writers for uſing this va<g ref="char:EOLhyphen"/>riety.</p>
+            <p>I ſhall add, that the Goſpel of St. <hi>Matthew</hi> was written originally in Hebrew. And St. <hi>Hierom</hi> tells us expreſly,<note place="margin">Hieron. <hi>in</hi> Matt. 23.</note> that in that Hebrew Copy which the <hi>Nazarens</hi> uſed, it was <hi>Jojada,</hi> where we now reade <hi>Barachias.</hi> We have no reaſon to doubt of one or of the other. And then the objection lies not againſt the Original Text; And it can have no force a<g ref="char:EOLhyphen"/>gainſt the Greek Verſion: For <hi>Jehojada</hi> and and <hi>Berachiah</hi> being names of the very ſame import and ſignification in the Hebrew (as <hi>Eliakim</hi> and <hi>Jehojakim</hi> are,<note place="margin">2 Chro. 36.4.</note> which belonged to the ſame perſon,) and, for what we know,
+<pb n="11" facs="tcp:63615:8"/>the ſame perſon might be called by both. 'Tis not ſtrange that <hi>Jehojada</hi> ſhould by the Greek Interpreter be rendred <hi>Barachias.</hi>
+            </p>
+            <p>Secondly, It may likewiſe be objected, that 'tis not likely that the <hi>Zacharias</hi> in my Text ſhould refer to the Son of <hi>Jehojada,</hi> becauſe our Saviour beginning as high as <hi>Abel,</hi> 'tis not to be ſuppoſed he ſhould deſcend no lower than that Son of <hi>Jehojada,</hi> who was ſlain Eight hundred years before theſe words were ſpoken. 'Tis more reaſonable to be<g ref="char:EOLhyphen"/>lieve that he would deſcend to the latter end of the <hi>Jewiſh</hi> Polity, and that he refers to ſome perſon that was ſlain a little before the diſſolution of the <hi>Jewiſh</hi> State. And upon this Conſideration I add,</p>
+            <p n="4">4. That there is another <hi>Zacharias,</hi> men<g ref="char:EOLhyphen"/>tioned by <hi>Joſephus,</hi>
+               <note place="margin">De Bell. Ju<g ref="char:EOLhyphen"/>daic. l. <hi>4.</hi> c. <hi>18.</hi>
+               </note> that was ſlain by the <hi>Jews</hi> a-while before the deſtruction and diſſolu<g ref="char:EOLhyphen"/>tion of the <hi>Jewiſh</hi> Polity. Him he calls <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. He was accuſed as guilty of Treachery, and too great a Favourer of the <hi>Romans.</hi> But tho' he were innocent, and abſolved by the <hi>Sanedrin,</hi> yet was he unjuſtly ſlain by the <hi>Jewiſh Zealots,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, i. e. <hi>in the mid<g ref="char:EOLhyphen"/>dle of the Temple,</hi> which agrees very well
+<pb n="12" facs="tcp:63615:9"/>with <hi>between the Temple and the Altar.</hi> This inſtance anſwers very well to <hi>Abel</hi> ſlain from the beginning; It agrees well with my Text, he was the Son of <hi>Baruch,</hi> and ſlain in the Temple. And then our Saviour's words are <hi>proleptical;</hi> and being a Prophecy of what was ſhortly to come to paſs, no wonder that they are expreſſed in ſuch terms, (a thing very uſual in the old Prophets,) as if the thing had already been fulfilled. The time paſt is frequently uſed for the future among the ancient Prophets, and ſometimes in the New Teſtament alſo.<note place="margin">Rev. 11.13.</note> And if the words of <hi>Jeſus</hi> refer to this perſon, then are they ſo far from affording an Objection againſt the truth of the Goſpel-hiſtory, that they do con<g ref="char:EOLhyphen"/>firm it.</p>
+            <p>What hath been ſaid is ſufficient, I hope, for the Explanation of my words. I pro<g ref="char:EOLhyphen"/>ceed now to,</p>
+            <p n="2">II. Shew the Juſtice of this denunciation: <hi>That upon you may come,</hi> &amp;c.</p>
+            <p>And here I am to conſider how far Chil<g ref="char:EOLhyphen"/>dren are obnoxious upon account of their Father's offences.</p>
+            <p>
+               <pb n="13" facs="tcp:63615:9"/>For that they are concerned on account of their Father's faults, is plain from the Words, and from other Arguments alſo.</p>
+            <p>We find God denouncing againſt the third and fourth Generation of Idolaters, or of them that hate Him. <hi>Exod.</hi> 20. Holy Men have confeſſed the Sins of their Fathers.<note place="margin">Dan. 9.16.</note> 
+               <hi>We have ſinned with our Fathers,</hi>
+               <note place="margin">Nehem. 9.</note> 
+               <hi>we have commit<g ref="char:EOLhyphen"/>ted iniquity, we have done wickedly.</hi>
+               <note place="margin">Pſ. 106.6, 7.</note> 
+               <hi>Our Fa<g ref="char:EOLhyphen"/>thers underſtood not thy wonders in Egypt; they remembred not the multitude of thy mercies, but provoked him at the Sea, even at the red Sea.</hi> And God promiſeth Mercy to them who confeſs their iniquity, and the iniquity of their Fathers, <hi>Levit.</hi> 26.40. <hi>Joſiah</hi> was a good King, but deſcended from <hi>Menaſſeh,</hi> a very wicked perſon, upon his account <hi>Ju<g ref="char:EOLhyphen"/>dah</hi> is afflicted. <hi>Notwithſtanding the Lord turn<g ref="char:EOLhyphen"/>ed not from the fierceneſs of his great wrath,</hi> wherewith his <hi>anger was kindled againſt Ju<g ref="char:EOLhyphen"/>dah, becauſe of all the provocations that Menaſ<g ref="char:EOLhyphen"/>ſeh had provoked him withall,</hi> 2 Kings 29.2. This is enough to juſtifie our Church, when ſhe directs us to pray, <hi>Remember not our ini<g ref="char:EOLhyphen"/>quities, nor the iniquities of our Forefathers.</hi>
+            </p>
+            <p>
+               <pb n="14" facs="tcp:63615:10"/>For the better ſpeaking to this matter,</p>
+            <list>
+               <item>Firſt, I ſhall ſhew how this is to be under<g ref="char:EOLhyphen"/>ſtood.</item>
+               <item>Secondly, I ſhall conſider the grounds of it.</item>
+            </list>
+            <p>Firſt, How it is to be underſtood that the Children are obnoxious upon the account of their Fathers Sin. And that in the follow<g ref="char:EOLhyphen"/>ing particulars.</p>
+            <list>
+               <item>1. It muſt not be underſtood of Eternal puniſhment. A man ſhall not for his Father's Sins lye down in Everlaſting burnings. As our Fathers Faith will not let us into Hea<g ref="char:EOLhyphen"/>ven, ſo neither will their Impiety ſhut us out. We may be deprived of many Tem<g ref="char:EOLhyphen"/>poral bleſſings on their account, but not of Eternal glory. The Children of thoſe that murmured and luſted in the Wilderneſs, were admitted into the promiſed Land. The Daughters of <hi>Zelophehad</hi> are not deprived of their Inheritance, tho' their Father fell ſhort of the good Land. We ſhall be ſeparately conſidered there according to our own deeds. When the Father dyes for Treaſon, the Son is not capitally puniſhed, unleſs he were an aſſociate or complice. However his Bloud
+<pb n="15" facs="tcp:63615:10"/>be tainted, or his Goods diminiſhed, his Life cannot be touched.</item>
+               <item>2. Where the Children continue in their Father's crimes, there is no injuſtice in pu<g ref="char:EOLhyphen"/>niſhing them. Thus have thoſe words (<hi>Ex<g ref="char:EOLhyphen"/>od.</hi> 20.5.) been anciently underſtood; and thus it is in the caſe before us. <hi>Behold I ſend unto you Prophets—and ſome of them ye ſhall kill.</hi> v. 34. In this caſe there is no ſhadow of injuſtice. And they may be ſaid to con<g ref="char:EOLhyphen"/>tinue in their Fathers ſins, who do not con<g ref="char:EOLhyphen"/>feſs them, nor repent of them; who abhor them not, and root not out of their Minds thoſe faulty Principles and vicious Propenſi<g ref="char:EOLhyphen"/>ties that lead them to the ſame crimes. There is no injuſtice in puniſhing the no<g ref="char:EOLhyphen"/>cent, what-ever the impulſive cauſe may be.</item>
+               <item>3. For Temporal Evils they may be, with<g ref="char:EOLhyphen"/>out any ſhadow of injuſtice, the lot and por<g ref="char:EOLhyphen"/>tion of the beſt of Men. I ſay, without any ſhadow of injuſtice on God's part. For on Man's part there is often great injuſtice. And tho' God makes uſe of Men as inſtruments of ſeverity to chaſtiſe his Servants, this does not excuſe their fault, or leſſen their crime.
+<pb n="16" facs="tcp:63615:11"/>But 'tis evident that a good Man may ſuffer greatly in this World without impeachment of the Juſtice or Providence of God. 'Tis ſometimes for the good of the whole that the Righteous Man ſuffers, and always for his own. He will have a more ample re<g ref="char:EOLhyphen"/>ward hereafter, and will not want a ſuffici<g ref="char:EOLhyphen"/>ent ſupport here. Theſe things being pre<g ref="char:EOLhyphen"/>miſed, it will not be hard</item>
+            </list>
+            <p>Secondly, To give you the grounds of this; That is, to ſhew you why the Children are many times puniſhed or afflicted upon the ſcore of their Father's impiety. I ſhall ſpeak of theſe with a particular reſpect to the <hi>Jews,</hi> to whom my Text relates.</p>
+            <p>There are ſeveral circumſtances in the caſe before us that do enhance the crime of the <hi>Jewiſh</hi> poſterity.</p>
+            <list>
+               <item>1. Their Sin was the greater, becauſe their Fathers ſins (as well as the many Plagues that were inflicted on them for their offen<g ref="char:EOLhyphen"/>ces) were recorded, and the record of theſe things was preſerved among them. What<g ref="char:EOLhyphen"/>ever things were written afore-time, were written for their warning and inſtruction. They were not left without witneſs. For be<g ref="char:EOLhyphen"/>ſides
+<pb n="17" facs="tcp:63615:11"/>their Conſcience, and their warning by their Prophets from time to time, they had among them an account in writing of their Fathers crimes and plagues; This advanceth their iniquity above the ſize and ſtature of that of their Forefathers. They ſinned after the greateſt Warning, and ſevereſt Examples. To this purpoſe it hath been well obſerved, that tho' Murther was forbid as a capital Crime to the Sons of <hi>Noah,</hi> as well as to the <hi>Jews;</hi> And there was no ſacrifice of Expia<g ref="char:EOLhyphen"/>tion allowed for that Sin by the Law of <hi>Mo<g ref="char:EOLhyphen"/>ſes,</hi> yet <hi>Cain,</hi> the firſt Murtherer, was exemp<g ref="char:EOLhyphen"/>ted from Death by God himſelf. He was indeed doomed to be an Exile and a Vaga<g ref="char:EOLhyphen"/>bond; but care was taken that <hi>Cain</hi> ſhould not be killed, becauſe <hi>in him the World had warning.</hi> In after-times it was ſtrictly pro<g ref="char:EOLhyphen"/>vided that every Murtherer ſhould dye the death. This is applicable to our preſent caſe. The Fathers of theſe <hi>Jews</hi> had killed the Prophets, and had ſuffered ſeverely for their wickedneſs; they knew all this very well, and yet after all this warning they tread in their Father's ſteps.</item>
+               <pb n="18" facs="tcp:63615:12"/>
+               <item>2. Becauſe they repeated the ſame Sins, and perſiſted in them to the laſt. To repeat our folly, and perſiſt in it, is always a great aggravation of it. 'Tis ſome extenuation of our fault that we are ſurprized. The liquor of the Grape hath prevailed ſometime upon a righteous, but unwary Man. Our per<g ref="char:EOLhyphen"/>ſiſting adds weight to our guilt. This was the caſe of theſe <hi>Jews,</hi> they went on to per<g ref="char:EOLhyphen"/>ſecute and deſtroy the Righteous as their Fathers did; They fill up the meaſure of their iniquity, and haſten their own ruine and deſtruction.</item>
+               <item>3. They do this alſo under the profeſſion of better things. <hi>If we had been in the days of our Fathers, we would not have been parta<g ref="char:EOLhyphen"/>kers with them in the bloud of the Prophets.</hi> v. 30. This made their Sin the more deteſtable, that they were guilty of the greateſt cruelty, when they made profeſſion of mercy and tender<g ref="char:EOLhyphen"/>neſs. They covered their hatred to God's living Saints, by profeſſing a great veneration for the Saints departed. That's a deteſtable Hypocriſy when Men ſhall declaim againſt their Fathers ſins, and make much of their own. This does mightily enhance their
+<pb n="19" facs="tcp:63615:12"/>guilt, and call for their deſtruction. Their iniquity is now ripe and full, when they condemn and practice the ſame thing. Their Fathers ſinned greatly, but they owned it. Theſe Hypocrites cloak their own malice by exclaiming againſt that of their Father's. No ſin is greater than that which is acted under the diſguiſe of Piety. No Wolf is more ra<g ref="char:EOLhyphen"/>venous and formidable than he that lurks under Sheep's-cloathing. He is the great Sinner that indulgeth himſelf in that very ſin which he pretends to loath. Their Fa<g ref="char:EOLhyphen"/>thers did well or ill: If they did well, why ſhould they declaim againſt them? If ill, why ſhould they imitate them? Theſe Men are without all excuſe, they practice in con<g ref="char:EOLhyphen"/>tradiction to themſelves, and add to their Father's guilt the vileſt hypocriſy. They imitate the treachery of <hi>Judas,</hi> who kiſſed and betrayed his Lord at the ſame time. Theſe Men preface their Villanies with ſhew of Religion, and follow the worſt of Men, when they perſonate the beſt. They are like him who proclaimed a Faſt, but deſigned by it to gain his Neighbour's Vineyard; and him who plotted Treaſon againſt his Prince,
+<pb n="20" facs="tcp:63615:13"/>when he made a ſhew of paying his Vows to his God. This is ſuch an aggravation as (added to the reſt) does abundantly ſhew the Juſtice of this denunciation.</item>
+            </list>
+            <p n="3">III. I ſhall now proceed to the Uſe and Application of what hath been ſaid, with a particular Reflection upon the ſad Occaſion that brings us together this Day.</p>
+            <p>On this Day it was that our Soveraign, of Bleſſed Memory, fell by the hands of Vio<g ref="char:EOLhyphen"/>lence and Wickedneſs. Then was his Righ<g ref="char:EOLhyphen"/>teous bloud ſhed. And tho' we gave no ex<g ref="char:EOLhyphen"/>plicit conſent to this barbarous Murther, and perhaps with the <hi>Jews</hi> have ſaid, That if we had been in the days of our Forefa<g ref="char:EOLhyphen"/>thers, we would not have been partakers with them; yet all this while we may de<g ref="char:EOLhyphen"/>ceive our ſelves and others, if we do not confeſs this Sin with great humility, and a<g ref="char:EOLhyphen"/>bandon all propenſities to ſo great a wicked<g ref="char:EOLhyphen"/>neſs. I ſhall more particularly ſhew you the Application of what hath been ſaid.</p>
+            <p n="1">1. This will juſtifie our ſolemn aſſembling at this time. We come together to depre<g ref="char:EOLhyphen"/>cate God's diſpleaſure for the innocent bloud
+<pb n="21" facs="tcp:63615:13"/>that was this day ſhed. And we have good cauſe ſo to do. For if the Righteous bloud, ſhed ſo long before, might juſtly be required of the after-generation of the <hi>Jews,</hi> this may be required of us. We find that the <hi>Jews</hi> kept a Faſt a long time for the ſlaughter of <hi>Gedaliah, Zech.</hi> 7.5. with <hi>Jer.</hi> 41.1, 2. called by the Prophet the Faſt of the <hi>ſeventh Month:</hi> We have greater reaſon for this. That we conſented not to the ſhedding this Righteous bloud, will not diſcharge us from the Service of this day. For neither did thoſe <hi>Jews</hi> that kept that Faſt conſent to the Murther of <hi>Gedaliah, Deut.</hi> 21. We know what the Law required in caſe of an uncertain Murther: An Heifer was to be killed, the Prieſts were to be preſent, the Elders of the neighbour<g ref="char:EOLhyphen"/>ing City were to waſh their hands, and ſay, <hi>Our hands have not ſhed this bloud, neither have our eyes ſeen it. Be mercifull, O Lord, unto thy people Iſrael whom thou haſt redeemed, and lay not innocent bloud unto thy people of Iſraels charge.</hi> It follows, <hi>So ſhalt thou put away the guilt of innocent bloud from among you, when thou ſhalt do that which is right in the ſight of the Lord.</hi> This wil be our beſt
+<pb n="22" facs="tcp:63615:14"/>courſe upon this occaſion, not onely to diſ<g ref="char:EOLhyphen"/>own the fact our ſelves, but to deprecate the Divine diſpleaſure, and pray that it may not be imputed to the Nation.</p>
+            <p n="2">2. We may learn what cauſe we have to be humbled for our Fathers ſins, and more particularly for that Wickedneſs committed on this day. Then was the Nation ſtained with the Righteous bloud of an innocent and excellent Prince. That bloud God will require of the principal Criminals and Acceſ<g ref="char:EOLhyphen"/>ſories alſo, of the firſt Offenders and their Aſſociates. The cry of innocent Bloud is loud: It pierceth the Heavens, and finds a direct way to the Ears of God. As we would not be charged with it, let us humble our ſelves before God: The ſtain can be remo<g ref="char:EOLhyphen"/>ved no other way, but by Tears of Repen<g ref="char:EOLhyphen"/>tance and the Bloud of <hi>Jeſus.</hi> The Pſal<g ref="char:EOLhyphen"/>miſt was guilty of bloud. He was a Prince, and might ſay to God, <hi>Againſt Thee, Thee onely have I ſinned:</hi> Pſ. 50. But it follows, <hi>Deli<g ref="char:EOLhyphen"/>ver me from bloud-guiltineſs, O God, thou God of my Salvation.</hi> And, <hi>Thou deſireſt not Sacrifice, elſe would I give it—The Sacrifices of God are a broken Spirit</hi>—The Wickedneſs committed
+<pb n="23" facs="tcp:63615:14"/>this day was premeditated and ſtudied, co<g ref="char:EOLhyphen"/>loured with a pretence of Law and Juſtice, practiced under the cloak of Religion and diſguiſe of Piety. It will admit of no exte<g ref="char:EOLhyphen"/>nuation. It was an action foul and defor<g ref="char:EOLhyphen"/>med, cruel and barbarous, without excuſe or plea. He muſt be loſt to the reaſon of a Man, and the tenderneſs of a Chriſtian, whom it ſtrikes not with horror. What remains then, but that we apply our ſelves to the Mercies of God and Merits of Chriſt for our atonement and expiation. Nothing ſhort of this can give us hope, and nothing but our ſorrow and repentance can give us the hope of this.</p>
+            <p n="3">3. Let us endeavour to cut off the entail of Curſes, which threaten us from our Fore<g ref="char:EOLhyphen"/>fathers ſins. We too often inherit their guilt, and are infected with their vicious in<g ref="char:EOLhyphen"/>clinations. Let us do what we can to de<g ref="char:EOLhyphen"/>rive a bleſſing on our ſelves and our poſte<g ref="char:EOLhyphen"/>rity. And to that purpoſe let us be per<g ref="char:EOLhyphen"/>ſwaded,</p>
+            <list>
+               <item>Firſt, To perfect our Repentance both for our Fathers and our own iniquities. This is the onely way to keep off the Evils which
+<pb n="24" facs="tcp:63615:15"/>threaten us, the beſt Security againſt the Wrath to come. Our timely and complete Repentance is our defence, and God will do by us all as we do in this matter. As we would avoid the plagues of this and the next life, let us retire our ſelves from this World and all its amuſements, enter into our Cloſets and examin our State towards God, and humbly deprecate his diſpleaſure on account of our Fathers and our own iniquities. Let us do it as frequently as we can, and as fervently too. There is great reaſon we ſhould do thus. The Wickedneſs committed on this day requires it, from which I fear we are not yet purged; our Perſonal ſins, and their circum<g ref="char:EOLhyphen"/>ſtances of aggravation, require it alſo. We had need of our Solemn times of Repentance and Humiliation; and the good improve<g ref="char:EOLhyphen"/>ment of them are the beſt preſervative of our Selves and the Nation. After all our guilts, both National and Perſonal, after ſo many and ſuch crying Sins, ſo great a decay of Pie<g ref="char:EOLhyphen"/>ty and real Goodneſs, contempt of God and Religion, we muſt not think that a cold con<g ref="char:EOLhyphen"/>feſſing our Sins will ſerve our turn, we muſt abhor them and be greatly humbled for them.</item>
+               <pb n="25" facs="tcp:63615:15"/>
+               <item>Secondly, Let us be exemplary in Piety and real Goodneſs. Let us own it before all the World, and promote it what we can in thoſe under our care and influence. Let us do it with all our might in our ſeveral pla<g ref="char:EOLhyphen"/>ces, and as this will be the beſt of our titles, ſo 'twill be our ſureſt defence.</item>
+               <item>Thirdly, Let us run counter to the crimes of our Forefathers. Let their Diſobedience commend to us Fidelity and true Allegiance; Their Oppreſſion teach us Mercy and Good<g ref="char:EOLhyphen"/>will; Their Bloud-guiltineſs put us upon Compaſſion and Kindneſs; Their Revenge direct us to Forgiveneſs and Forbearance; And their Hypocriſy ſtir us up to Sincerity. This will be a real proof of the Sincerity of our Repentance.</item>
+               <item>Fourthly, Let us add our conſtant and fer<g ref="char:EOLhyphen"/>vent Prayers for the Kingdoms to which we belong, for our Selves and our Relatives, that God would be appeaſed, that the Righteous bloud ſhed this day, and at all times elſe, may not be imputed to us or them. Let this a<g ref="char:EOLhyphen"/>mazing Providence of God, which we ſolemn<g ref="char:EOLhyphen"/>ly remember this day, awaken us to repentance and newneſs of life. To a life abſtracted from
+<pb n="26" facs="tcp:63615:16"/>the World, and devoted to God. All the Di<g ref="char:EOLhyphen"/>vine Judgments, and therefore that of this day, loudly call us to this. And if we hearken not to them, we ſhall not be heard when we call for Mercy. The Judgment of this day ought to move us greatly in this matter. If they did theſe things to the green tree, what ſhall be done to the dry? We are all concerned in this day's work, to bewail the Wickedneſs of Men and improve the amazing Providence of God. This we cannot do, unleſs we take warning and learn to forſake the World, and devote our ſelves to God, and prepare for all Events of things. If the Righteous ſcarcely be ſaved, where ſhall the Sinner and the Ungodly appear?</item>
+            </list>
+            <p>We have, ſince this fatal blow was given, ſuffered ſeverely; and what the <hi>Jews</hi> ſay of the Calf in the Wilderneſs, that there is ſome<g ref="char:EOLhyphen"/>thing of it in all their after-ſufferings, may with as much truth be ſaid of the barbarous Murther of this day: Our Sufferings have been the produce of the horrid Sin of this day. For many of them they bore the marks and ſignatures of it. We might eaſily have read our <hi>guilt</hi> in our <hi>infliction,</hi> and could not but own that our iniquity had found us
+<pb n="27" facs="tcp:63615:16"/>out. We have reaſon to fear that God's wrath is not yet quite turned away, and that his hand is ſtretched out ſtill. We have ſuf<g ref="char:EOLhyphen"/>fered already, let us Sin no more, leſt ſome worſe thing come upon us. Good God a<g ref="char:EOLhyphen"/>waken us to ſee in time the things that be<g ref="char:EOLhyphen"/>long to our Peace before they be hid from our Eyes. I ſhall conclude with the Prayer that is part of a Collect appointed for this day. <hi>Teach us ſo to number our days, that we may apply our hearts unto Wiſdom. And grant that neither the ſplendor of any thing that is great, nor the conceit of any thing that is good in us may any way withdraw our eyes from looking up<g ref="char:EOLhyphen"/>on our ſelves as ſinfull duſt and aſhes. But that (according to the example of thy Bleſſed Martyr) we may preſs forward toward the prize of the high calling that is before us in faith and pati<g ref="char:EOLhyphen"/>ence, humility and meekneſs, mortification and ſelf-denial, charity and conſtant perſeverance unto the end. And all this for thy Son our Lord Jeſus Chriſts ſake; To whom with thee and the Holy Ghoſt, be all honour and glory, World with<g ref="char:EOLhyphen"/>out end.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:63615:17"/>
+            <list>
+               <head>BOOKS Publiſhed by His Grace <hi>JOHN</hi> Lord Arch-Biſhop of <hi>Canterbury.</hi>
+               </head>
+               <item>THirty Sermons and Diſcourſes upon ſeveral Occaſions, in three Volumes, in <hi>Octavo.</hi>
+               </item>
+               <item>The <hi>Rule of Faith;</hi> or, an Anſwer to the Treatiſe of Mr. <hi>J. Sergant, Octavo.</hi>
+               </item>
+               <item>A Diſcourſe againſt Tranſubſtantiation, <hi>Octavo,</hi> alone, Price 3<hi>d.</hi>
+               </item>
+               <item>A Perſuaſive to Frequent Communion in the Sacrament of the Lord's Supper, <hi>Octavo,</hi> alone, Price 6<hi>d.</hi> bound, and 3<hi>d.</hi> ſtitcht.</item>
+               <item>A Sermon preached at <hi>Lincolns-Inn</hi>-Chappel on the 31ſt of <hi>Jan.</hi> 1688. being appointed for a Publick Thankſgiving to Almighty God for ha<g ref="char:EOLhyphen"/>ving made His Highneſs the Prince of <hi>Orange</hi> the Glorious Inſtru<g ref="char:EOLhyphen"/>ment of the great Deliverance of this Kingdom from Popery and Ar<g ref="char:EOLhyphen"/>bitrary Power, <hi>Quarto.</hi>
+               </item>
+               <item>A Sermon preached before the Queen at <hi>White-hall,</hi> on <hi>Matth.</hi> 5.44.</item>
+               <item>A Sermon preached before the King and Queen at <hi>Hampton-Court,</hi> on <hi>Luke</hi> 10.42.</item>
+               <item>A Sermon preached before the Queen, on <hi>Matth.</hi> 25.46.</item>
+               <item>A Sermon preached before the Houſe of Commons upon a Monthly Faſt, on <hi>Eccleſ.</hi> 9.11.</item>
+               <item>A Sermon preached before the Lord Mayor at <hi>Bow-Church</hi> upon a Monthly Faſt, on <hi>Jeremiah</hi> 6.8.</item>
+               <item>A Sermon preached before the Queen, on <hi>Acts</hi> 24.16.</item>
+               <item>A Sermon preached before the Queen at <hi>White-hall,</hi> upon the Month<g ref="char:EOLhyphen"/>ly Faſt, <hi>Septemb.</hi> 16. 1691. on <hi>Zech.</hi> 7.5.</item>
+            </list>
+            <list>
+               <head>Publiſht by the Right Reverend Father in God, <hi>RICHARD,</hi> Lord-Biſhop of <hi>Bath</hi> and <hi>Wells.</hi>
+               </head>
+               <item>A Demonſtration of the <hi>Meſſias:</hi> In which the Truth of the Chri<g ref="char:EOLhyphen"/>ſtian Religion is proved, eſpecially againſt the <hi>Jews:</hi> The Firſt Part.—A Second Part will ſuddenly be Printed.</item>
+               <item>The Judgment of private Diſcretion in Matters of Religion, defen<g ref="char:EOLhyphen"/>ded; in a Sermon on 1 <hi>Theſſ.</hi> 5.21.</item>
+               <item>The Duty of the Rich: In a Sermon preached before the Lord Mayor, <hi>&amp;c.</hi> on <hi>Eaſter-Tueſday,</hi> April 22. 1690. on 1 <hi>Tim.</hi> ch. 6.17, 18, 19.</item>
+            </list>
+            <p>
+               <hi>All ſold by</hi> Brab. Aylmer.</p>
+            <pb facs="tcp:63615:17"/>
+         </div>
+      </back>
+   </text>
+</TEI>
